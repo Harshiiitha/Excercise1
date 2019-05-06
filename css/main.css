@@ -1,0 +1,17 @@
+body
+{
+  background: grey;
+  font-size: 18px;
+}
+.item
+{
+  margin:auto;
+  width:500px;
+}
+.item1{
+  border:solid;
+  border-color:white;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
